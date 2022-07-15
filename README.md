@@ -54,11 +54,9 @@ This was the code that finally like damn finally worked and the mobile version w
 
 I'm damn glad to learn how to add code snippets!!!
 
-```css
-  ```css
-    .lol { 
-      color: red;
-    }
+```javascript
+  ```javascript
+    console.log("Now you do too");
   ```
 ```
 
