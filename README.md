@@ -58,9 +58,7 @@ I'm damn glad to learn how to add code snippets!!!
   ```html
   <p>Your Code</p>
   ```
-  <Start>Add three ``` then write the language name(e.g. html) for it's snippet</Start>
-  <Content>Add your code</Content>
-  <End>Then add ``` at the end as a closing tag</End>
+ <h5>Now you know how to do it too</h5>
 ```
 
 ### Useful resources
