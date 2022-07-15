@@ -56,9 +56,9 @@ How to add code snippets!!! I'm damn glad to learn it
 
 ```html
   ```css
-  .lol { 
-    color: red;
-     }
+    .lol { 
+      color: red;
+    }
   ```
 ```
 
