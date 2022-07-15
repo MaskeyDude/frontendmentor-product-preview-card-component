@@ -32,7 +32,6 @@ Users should be able to:
 
 ### What I learned
 
-
 I already knew about how to do <strike><del>this</del></strike> but forgot about it so by researching I got to know about the <strong>strike</strong> tag it's a fallback as <strong>del</strong> isn't visible in every browser
 
 ```html
@@ -52,6 +51,12 @@ This was the code that finally like damn finally worked and the mobile version w
   display: block;
 }
 ```
+
+How to add code snippets!!!
+
+````html
+<h1>```css .lol { color: red; } ```</h1>
+````
 
 ### Useful resources
 
