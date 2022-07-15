@@ -22,25 +22,34 @@ I already knew about how to do <strike><del>this</del></strike> but forgot about
 </p>
 ```
 
-This was the code that finally like damn finally worked and the mobile version was good and happy :D
+but after reading my report I think it's much better to use css
+
+```css
+  .old-price {
+    text-decoration: line-through;
+  }
+```
+
+This was the code that finally like damn finally worked and the mobile version was good and happy by just adding auto to center the box (already knew this too but forgot to use it) :]
 
 ```css
 .box {
-  max-width: 375px;
   margin: 1em auto;
-  display: block;
 }
 ```
 
-I'm damn glad to learn how to add code snippets!!!
+I'm damn glad to learn how to add code snippets!!! (from the template read me file)
 
+````html
 ```html
-  ```html <p>Your Code</p> ```
+<p>Your Code</p>
 ```
+````
 
 ## Useful resources
 
 [How to take a screenshot?](https://www.makeuseof.com/how-to-full-page-screenshot-chrome-firefox/) - I didn't knew how to take a webpage snapshot so yeah
+[Text decoration types?](https://www.w3schools.com/cssref/pr_text_text-decoration.asp) - I also forgot how to slash(line-through) the text
 
 ## Snapshots
 

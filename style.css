@@ -92,11 +92,12 @@ body {
 
 .price {
     margin: 0 0 1.5em 0;
-    display: flex;
     align-items: center;
+    display: flex;
 }
 
 .new-price {
+    /* sizing & positioning */
     font-size: 2.1em;
     font-weight: 700;
     /* decor */
@@ -105,8 +106,11 @@ body {
 }
 
 .old-price {
+    /* sizing & positioning */
     margin: 0 0 0 2em;
     font-size: 0.8em;
+    /* decor */
+    text-decoration: line-through;
     color: hsl(228, 12%, 48%);
 }
 
