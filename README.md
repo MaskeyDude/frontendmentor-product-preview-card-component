@@ -60,7 +60,7 @@ I'm damn glad to learn how to add code snippets!!!
 
 ### Useful resources
 
-[I didn't knew how to take a webpage screenshot](https://www.makeuseof.com/how-to-full-page-screenshot-chrome-firefox/)
+[How to take a screenshot?](https://www.makeuseof.com/how-to-full-page-screenshot-chrome-firefox/) - I didn't knew how to take a webpage snapshot so yeah
 
 ### Thoughts
 
