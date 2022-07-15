@@ -55,7 +55,7 @@ I'm damn glad to learn how to add code snippets!!! (from the template read me fi
 
 [How to take a screenshot?](https://www.makeuseof.com/how-to-full-page-screenshot-chrome-firefox/) - I didn't knew how to take a webpage snapshot so yeah
 
-[Text decoration types?](https://www.w3schools.com/cssref/pr_text_text-decoration.asp) - I also forgot how to slash(line-through) the text
+[Slash through the text?](https://www.w3schools.com/cssref/pr_text_text-decoration.asp) - I also forgot how to slash (line-through) the text
 
 ## Thoughts
 
