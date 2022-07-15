@@ -54,9 +54,13 @@ This was the code that finally like damn finally worked and the mobile version w
 
 How to add code snippets!!!
 
-````html
-<h1>```css .lol { color: red; } ```</h1>
-````
+```html
+  ```css
+  .lol { 
+    color: red;
+     }
+  ```
+```
 
 ### Useful resources
 
