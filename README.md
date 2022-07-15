@@ -55,10 +55,7 @@ This was the code that finally like damn finally worked and the mobile version w
 I'm damn glad to learn how to add code snippets!!!
 
 ```html
-  ```html
-  <p>Your Code</p>
-  ```
- <h5>Now you know how to do it too</h5>
+  ```html <p>Your Code</p> ```
 ```
 
 ### Useful resources
