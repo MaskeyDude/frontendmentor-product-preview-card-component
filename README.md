@@ -54,10 +54,13 @@ This was the code that finally like damn finally worked and the mobile version w
 
 I'm damn glad to learn how to add code snippets!!!
 
-```javascript
-  ```javascript
-    console.log("Now you do too");
+```html
+  ```html
+  <p>Your Code</p>
   ```
+  <Start>Add three ``` then write the language name(e.g. html) for it's snippet</Start>
+  <Content>Add your code</Content>
+  <End>Then add ``` at the end as a closing tag</End>
 ```
 
 ### Useful resources
