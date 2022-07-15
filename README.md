@@ -3,24 +3,14 @@
 <h5>Assalam U Alaikum, well I don't like writing descriptions but Readme is fine</h5>
 <hr>
 
-## Table of contents
-
-- [The challenge](#the-challenge)
-- [What I learned](#what-i-learned)
-- [Useful resources](#useful-resources)
-- [Snapshots](#snapshots)
-- [Thoughts](#thoughts)
-- [Author](#author)
-
-
-## <h5>The challenge</h5>
+## The challenge
 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-## <h5>What I learned?</h5>
+## What I learned?
 
 I already knew about how to do <strike><del>this</del></strike> but forgot about it so by researching I got to know about the <strong>strike</strong> tag it's a fallback as <strong>del</strong> isn't visible in every browser
 
@@ -52,7 +42,7 @@ I'm damn glad to learn how to add code snippets!!!
 
 [How to take a screenshot?](https://www.makeuseof.com/how-to-full-page-screenshot-chrome-firefox/) - I didn't knew how to take a webpage snapshot so yeah
 
-## <h5>Snapshots</h5>
+## Snapshots
 
 ![](img/screenshot-desktop.png)
 ![](img/screenshot-mobile.png)
