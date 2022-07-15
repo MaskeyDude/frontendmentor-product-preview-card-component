@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component
 
-<h5>Assalam U Alaikum, well I don't like writing descriptions but Readme is fine</h5>
+<h5 align="center">Assalam U Alaikum, well I don't like writing descriptions but Readme is fine</h5>
 <hr>
 
 ## The challenge
