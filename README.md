@@ -10,6 +10,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+## Snapshots
+
+![](img/screenshot-desktop.png)
+![](img/screenshot-mobile.png)
+
 ## What I learned?
 
 I already knew about how to do <strike><del>this</del></strike> but forgot about it so by researching I got to know about the <strong>strike</strong> tag it's a fallback as <strong>del</strong> isn't visible in every browser
@@ -49,12 +54,8 @@ I'm damn glad to learn how to add code snippets!!! (from the template read me fi
 ## Useful resources
 
 [How to take a screenshot?](https://www.makeuseof.com/how-to-full-page-screenshot-chrome-firefox/) - I didn't knew how to take a webpage snapshot so yeah
+
 [Text decoration types?](https://www.w3schools.com/cssref/pr_text_text-decoration.asp) - I also forgot how to slash(line-through) the text
-
-## Snapshots
-
-![](img/screenshot-desktop.png)
-![](img/screenshot-mobile.png)
 
 ## Thoughts
 
