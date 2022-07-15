@@ -39,7 +39,8 @@ Users should be able to:
 
 ### What I learned
 
-I already knew about how to do <strike><del>this</del></strike> but forgot about it so by researching I got to know about <strike> it's a fallback as <del> isn't visible in every browser
+
+<h4>I already knew about how to do <strike><del>this</del></strike> but forgot about it so by researching I got to know about the <strong>strike</strong> tag it's a fallback as <strong>del</strong> isn't visible in every browser</h4>
 
 ```html
 <p class="old-price">
@@ -49,7 +50,7 @@ I already knew about how to do <strike><del>this</del></strike> but forgot about
 </p>
 ```
 
-This was the code that finally like damn finally worked and the mobile version was good and happy :D
+<h4>This was the code that finally like damn finally worked and the mobile version was good and happy :D</h4>
 
 ```css
 .box {
@@ -61,7 +62,7 @@ This was the code that finally like damn finally worked and the mobile version w
 
 ### Continued development
 
-Making mobile friendly websites are kinda difficult but I'll be glad to continue doing it
+<h4>Making mobile friendly websites are kinda difficult but I'll be glad to continue doing it</h4>
 
 ### Useful resources
 
@@ -74,7 +75,7 @@ Making mobile friendly websites are kinda difficult but I'll be glad to continue
 
 ## Thoughts
 
-It was easy but still there were some places where I got stuck (centering & responsiveness) so this helped me narrow down some of my weak points and also forced me to try different ways to style things
+<h4>It was easy but still there were some places where I got stuck (centering & responsiveness) so this helped me narrow down some of my weak points and also forced me to try different ways to style things</h4>
 
 <hr>
 <div align="center">
