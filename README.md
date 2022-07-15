@@ -9,12 +9,10 @@
   - [The challenge](#the-challenge)
   - [Snapshots](#snapshots)
 - [My process](#my-process)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+  - [Thoughts](#thoughts)
 - [Author](#author)
-- [Thoughts](#thoughts)
 
 ## Overview
 
@@ -31,11 +29,6 @@ Users should be able to:
 ![](img/screenshot-mobile.png)
 
 ## My process
-
-### Built with
-
-- Html
-- CSS
 
 ### What I learned
 
@@ -60,22 +53,18 @@ This was the code that finally like damn finally worked and the mobile version w
 }
 ```
 
-### Continued development
-
-Making mobile friendly websites are kinda difficult but I'll be glad to continue doing it
-
 ### Useful resources
 
-- [](https://www.makeuseof.com/how-to-full-page-screenshot-chrome-firefox/) - I didn't knew how to take a webpage screenshot
+[I didn't knew how to take a webpage screenshot](https://www.makeuseof.com/how-to-full-page-screenshot-chrome-firefox/)
+
+### Thoughts
+
+It was easy but still there were some places where I got stuck (centering & responsiveness) so this helped me narrow down some of my weak points and also forced me to try different ways to style things. Making mobile friendly websites are kinda difficult but I'll be glad to continue doing it
 
 ## Author
 
-- Frontend Mentor - [@MaskeyDude](https://www.frontendmentor.io/profile/MaskeyDude)
 - Twitter - [@MaskeyDude](https://www.twitter.com/MaskeyDude)
-
-## Thoughts
-
-It was easy but still there were some places where I got stuck (centering & responsiveness) so this helped me narrow down some of my weak points and also forced me to try different ways to style things
+- Frontend Mentor - [@MaskeyDude](https://www.frontendmentor.io/profile/MaskeyDude)
 
 <hr>
 <div align="center">
