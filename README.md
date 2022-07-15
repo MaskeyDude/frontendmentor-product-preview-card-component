@@ -52,7 +52,7 @@ This was the code that finally like damn finally worked and the mobile version w
 }
 ```
 
-How to add code snippets!!!
+How to add code snippets!!! I'm damn glad to learn it
 
 ```html
   ```css
