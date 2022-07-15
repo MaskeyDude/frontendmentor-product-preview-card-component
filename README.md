@@ -68,5 +68,5 @@ It was easy but still there were some places where I got stuck (centering & resp
 
 <hr>
 <div align="center">
-<a href="">Preview</a>
+<a href="https://maskeydude.github.io/product-preview-card-component/" target="_blank">Preview</a>
 </div>
