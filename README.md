@@ -67,6 +67,4 @@ It was easy but still there were some places where I got stuck (centering & resp
 - Frontend Mentor - [@MaskeyDude](https://www.frontendmentor.io/profile/MaskeyDude)
 
 <hr>
-<div align="center">
-<a href="https://maskeydude.github.io/product-preview-card-component/" target="_blank">Preview</a>
-</div>
+<h5 align="center">Yallah, Assalam U Alaikum</h5>
